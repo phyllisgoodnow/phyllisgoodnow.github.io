@@ -1,8 +1,28 @@
-.jumbotron {
-    background-color: #ffe5b4
-}
+
 
 img {
     object-fit: cover;
     max-width: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.15);
+}
+
+section {
+    padding-top: 56px;
+    margin-bottom: -56px;
+}
+
+.thumb {
+    margin-bottom: 30px;
+}
+
+#drawings {
+    /*background-color: lightgrey!important;*/
+}
+
+#he {
+    background-image: linear-gradient(rgba(248, 249, 250, 1), rgba(0,0,0,0)), url("images/IMG_20170615_104542_962 copy.jpg");
+    background-origin: content-box;
+    background-clip: content-box;
+    background-blend-mode: luminosity;
+    background-size: cover;
 }
