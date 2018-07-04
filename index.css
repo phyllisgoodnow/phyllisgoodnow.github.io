@@ -4,7 +4,7 @@ html {
 }
 
 body {
-    margin-bottom: 150px;
+    margin-bottom: 60px;
 }
 
 .footer {
@@ -24,7 +24,6 @@ img {
 
 section {
     padding-top: 56px;
-    margin-bottom: -56px;
 }
 
 .thumb {
@@ -33,8 +32,6 @@ section {
 
 #he {
     background-image: linear-gradient(rgba(248, 249, 250, 1), rgba(0,0,0,0)), url("images/IMG_20170615_104542_962 copy.jpg");
-    background-origin: content-box;
-    background-clip: content-box;
     background-blend-mode: luminosity;
     background-size: cover;
 }
