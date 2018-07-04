@@ -1,2 +1,3 @@
-# history-enslaved
-Static website for Phyllis Goodnow's History Enslaved project
+# phyllis-goodnow
+Website for Phyllis Goodnow.
+Uses [Bootstrap](https://getbootstrap.com) and [Lightbox](https://lokeshdhakar.com/projects/lightbox2/).
