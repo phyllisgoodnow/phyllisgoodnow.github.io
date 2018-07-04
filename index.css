@@ -1,0 +1,8 @@
+.jumbotron {
+    background-color: #ffe5b4
+}
+
+img {
+    object-fit: cover;
+    max-width: 100%;
+}
