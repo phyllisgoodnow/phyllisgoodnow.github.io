@@ -38,7 +38,7 @@ div.thumb {
 }
 
 #he {
-    background-image: linear-gradient(rgba(248, 249, 250, 1), rgba(0,0,0,0)), url("images/he-bg.jpg");
+    background-image: linear-gradient(rgba(248, 249, 250, 1), rgba(168, 143, 132, 0.29));
     background-blend-mode: luminosity;
     background-size: cover;
 }
