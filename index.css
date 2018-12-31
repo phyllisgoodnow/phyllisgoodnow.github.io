@@ -43,7 +43,7 @@ div.thumb {
     background-size: cover;
 }
 
-h1 {
+h1, h3 {
     font-family: 'Passion One', cursive;
 }
 
